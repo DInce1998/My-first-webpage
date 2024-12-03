@@ -37,6 +37,7 @@ table, th, td {
     solid darkred;
     align-content: center;
     align-items: center;
+    text-decoration: wavy;
 }
 .history {
     border: 2.5px
