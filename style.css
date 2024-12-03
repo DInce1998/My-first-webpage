@@ -32,6 +32,18 @@ table, th, td {
     padding: 15px;
     align-items: last baseline;
 }
+.Shrine {
+    background-color: cyan;
+color: crimson;
+}
+.Imperial {
+    background-color: firebrick;
+    color: steelblue;
+}
+.Gold {
+    background-color: goldenrod;
+    color: silver;
+}
 .name {
     border:2.5px 
     solid darkred;
