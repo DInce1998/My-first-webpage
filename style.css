@@ -1,0 +1,70 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+background-image: url(background.jpg);
+background-blend-mode: overlay;
+background-repeat: no-repeat;
+background-size: cover;
+}
+body {
+   background-color: antiquewhite;
+}
+h1 {
+    font-size: larger;
+    font-weight: bold;
+    color: darkblue;
+}
+h2 {
+    color: darkblue;
+    font-weight: bold;
+}
+.football {
+    color: red;
+}
+.Cricket {
+    color: blue;
+}
+.rugby {
+    color: fuchsia;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 15px;
+    align-items: last baseline;
+}
+.name {
+    border:2.5px 
+    solid darkred;
+    align-content: center;
+    align-items: center;
+}
+.history {
+    border: 2.5px
+    solid mediumblue;
+}
+h3 {
+    color: blue;
+    font-weight: bold;
+}
+.navitem {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-decoration: none;
+    background-color:black;
+    color: silver;
+}
+.footer-item {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+.footer-item:hover {
+    background-color: white;
+    color:black
+}
+.navitem:hover {
+    color:rgb(255, 255, 255);
+    background-color: black;
+}
